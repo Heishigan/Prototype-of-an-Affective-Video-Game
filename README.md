@@ -1,1 +1,1 @@
-# Prototype-of-an-Affective-Video-Game
+Protoype of an Affective Video Game
